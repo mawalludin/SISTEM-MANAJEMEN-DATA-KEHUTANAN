@@ -53,5 +53,5 @@ struct Pohon {
     bool status;         // true = Sehat, false = Sakit
 };
 ```
-## Menu Program
+## 🚥 Menu Program
 <img width="301" height="311" alt="image" src="https://github.com/user-attachments/assets/9f29b688-f952-408a-be1a-1d7cf9553f08" />
