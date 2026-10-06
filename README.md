@@ -6,21 +6,21 @@ Program sederhana berbasis **C++** untuk mengelola data pohon di sebuah hutan. P
 
 ## 📋 Daftar Isi
 
-- [Fitur](#-fitur)
-- [Struktur Data](#-struktur-data)
-- [Menu Program](#️-menu-program)
-- [Format Penyimpanan File](#-format-penyimpanan-file)
-- [Validasi Input](#-validasi-input)
-- [Cara Kompilasi dan Menjalankan](#️-cara-kompilasi-dan-menjalankan)
-- [Contoh Penggunaan](#-contoh-penggunaan)
-- [Struktur Program](#️-struktur-program)
-- [Catatan](#-catatan)
-- [Author](#-author)
-- [Lisensi](#-lisensi)
+- [Fitur](#fitur)
+- [Struktur Data](#struktur-data)
+- [Menu Program](#menu-program)
+- [Format Penyimpanan File](#format-penyimpanan-file)
+- [Validasi Input](#validasi-input)
+- [Cara Kompilasi dan Menjalankan](#cara-kompilasi-dan-menjalankan)
+- [Contoh Penggunaan](#contoh-penggunaan)
+- [Struktur Program](#struktur-program)
+- [Catatan](#catatan)
+- [Author](#author)
+- [Lisensi](#lisensi)
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 | No | Fitur | Deskripsi |
 |----|-------|-----------|
@@ -36,7 +36,7 @@ Program sederhana berbasis **C++** untuk mengelola data pohon di sebuah hutan. P
 
 ---
 
-## 🧱 Struktur Data
+## Struktur Data
 
 Setiap pohon direpresentasikan dalam `struct Pohon` dengan atribut berikut:
 
@@ -55,5 +55,5 @@ struct Pohon {
 
 ---
 
-## 📋 Menu Program
+## Menu Program
 <img width="301" height="311" alt="image" src="https://github.com/user-attachments/assets/9f29b688-f952-408a-be1a-1d7cf9553f08" />
